@@ -101,19 +101,21 @@ Create a simple HTML page and verify that it can be accessed from a web browser 
 
 ### Screenshot 1: VPC and Subnet Details
 
-
-<img width="1247" height="606" alt="687753120-ad01a1bf-085b-4758-96da-25ca51ad033f" src="https://github.com/user-attachments/assets/86e82c08-9734-4eca-bbba-06f9552b82a4" />
+---
+<img width="1917" height="1082" alt="Screenshot 2026-11-25 101252" src="https://github.com/user-attachments/assets/a013ed62-c482-434d-8485-342e547cb0c9" />
 
 ---
 
 ### Screenshot 2: EC2 Instance Running
+---
+<img width="1917" height="1086" alt="Screenshot 2026-11-25 104205" src="https://github.com/user-attachments/assets/aefdc6d5-b9a1-4b88-8e05-e90da7aec405" />
 
-<img width="1255" height="634" alt="687753360-5b8c84d5-ebdd-4e34-b97b-44b33476206d" src="https://github.com/user-attachments/assets/482c290d-bc8c-407f-bcf5-fbe16ddcebfe" />
 ---
 
 ### Screenshot 3: Web Server Output in Browser
 
-<img width="1170" height="710" alt="687753705-c53b8670-2271-4ac2-99a6-6aa6270b1be9" src="https://github.com/user-attachments/assets/a70e1c65-9e83-411d-9e26-bff4f6d1a6a5" />
+<img width="1920" height="1200" alt="Screenshot 2026-11-25 104317" src="https://github.com/user-attachments/assets/bd76604a-5b79-4068-837c-af0f56282038" />
+
 
 ---
 
